@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Softon Tech Test</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_city_list">Cities</string>
+    <string name="title_city_detail">City Detail</string>
+
+    <string name="title_weather">Weather: </string>
+    <string name="title_humidity">Humidity: </string>
+    <string name="title_temperature">Temperature: </string>
+    <string name="title_wind">Wind: </string>
+
+    <string name="about_app_title">About This App</string>
+    <string name="about_app_version">Version: </string>
+    <string name="about_package_name">Package name: </string>
+    <string name="about_app_description">Use this application to check the weather of the nearest cities to your device\'s location.</string>
+    <string name="about_app_description2">Weather information provided by </string>
+    <string name="about_app_weather_info_provider">http://openweathermap.org/</string>
+
+    <string name="rods_name">Rodrigo Esquivel Sibaja</string>
+    <string name="rods_email">srmandrake@yahoo.com</string>
+    <string name="rods_phone">Mobile: (506) 8863-0190</string>
+    <string name="rods_skype">skype: rodrigo.esquivel.sibaja</string>
+</resources>
